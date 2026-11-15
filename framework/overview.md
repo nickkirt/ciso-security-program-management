@@ -41,7 +41,7 @@ See also the [glossary](glossary.md).
 The topics are grouped under the functions of the [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework). Respond and Recover are combined, because in most organisations the same teams and plans cover both.
  
 | Function | ID | Focus |
-|---|---|---|---|
+|---|---|---|
 | Govern | GV | Security governance, data governance, standards, budget |
 | Identify | ID | Assets; risk assessment and threat modeling; threat intelligence; third parties |
 | Protect | PR | Safeguards: endpoints, network, vulnerabilities, identity, data, cloud, SaaS, OT, AI, awareness and more |
