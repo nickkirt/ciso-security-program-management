@@ -57,7 +57,7 @@ Objective ◄─ endangers ─ Threat ─ defended by ─► Topics
                                                    │
          ┌──────────┬──────────┬───────────┬───────┼──────────┬──────────────┐
       Maturity    KPIs       Risks      Findings  Owner   Target level   Compliance
-      (1–5)     (%)   (L × I)    (severity) (+review)  (+date)       requirements
+      (1–5)        (%)      (L × I)    (severity)(+review) (+date)      requirements
                                                               │
                                                      gap ─► Initiatives (uplift, budget, dates)
 ```
