@@ -25,7 +25,7 @@ It started as the *CISO Security Mind Map 2026* by Nick Kirtley, and grew into a
 | Folder | What you'll find |
 |---|---|
 | [`docs/`](docs/) | The CISO security program management tool itself |
-| [`framework/`](framework/) | Placeholder |
+| [`framework/`](framework/overview.md) | Placeholder |
 | [`guides/`](guides/) | Placeholder |
 | [`templates/`](templates/) | Placeholder |
 | [`examples/`](examples/) | *Example Corp.*, Placeholder |
