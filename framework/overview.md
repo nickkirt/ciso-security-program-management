@@ -90,5 +90,5 @@ Pick whatever fits your organisation:
  
 - **Documents and spreadsheets.** Use the [templates](../templates/): an assessment worksheet for all topics, CSV templates for maturity, KPIs, risks, findings, initiatives and ownership, and a board report outline.
 - **Your own tooling.** Load [`data/framework.json`](../data/framework.json), the whole framework in machine-readable form, into a GRC platform, BI dashboard or your own scripts.
-- **The free tool.** A browser-based implementation that covers all nine building blocks, with no install and no account. Open it at [YOUR-USERNAME.github.io/ciso-security-program-management](https://YOUR-USERNAME.github.io/ciso-security-program-management/).
+- **The free tool.** A browser-based implementation that covers all nine building blocks, with no install and no account. Open it at [SPM tool](https://spm.threat-modeling.com).
 For a fully worked example, see [Example Corp.](../examples/example-corp/example-corp.md).
